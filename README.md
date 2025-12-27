@@ -1,6 +1,6 @@
 # Konimbo Landing – Contact Form with Airtable
 
-אפליקציית Landing Page פשוטה ומודרנית הכוללת טופס יצירת קשר,
+אפליקציית Landing Page  הכוללת טופס יצירת קשר,
 השולח נתונים ל־Airtable בצורה מאובטחת באמצעות API Server-side.
 
 הפרויקט נבנה בהתאם ל־Best Practices של Web מודרני:
@@ -54,7 +54,7 @@ konimbo-landing/
 
 ---
 
-## משתני סביבה (חובה)
+## משתני סביבה 
 
 יש ליצור קובץ בשם **`.env.local`** בשורש הפרויקט:
 
